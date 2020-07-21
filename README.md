@@ -32,3 +32,5 @@ I'm komorebi-php - 👨‍💻‍Paste and copy engineer 🐳Php Dev engineer I 
 - [hyperf-code-interpretation](https://github.com/swooleo/hyperf-code-interpretation) - 🐳  Hyperf framework source code reading.
 
 </details>  
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=komorebi-php&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
