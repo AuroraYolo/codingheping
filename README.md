@@ -26,6 +26,8 @@ I'm codingheping - 👨‍💻‍Paste and copy engineer 🐳Php Dev engineer I 
 <summary>About My Open Source </summary>
   
   ## My main projects:
+  
+- [socket-io](https://github.com/Hyperf-Glory/socket-io) - Socket IO.
 
 - [hyperf-chat](https://github.com/codingheping/hyperf-chat) - Hyperf Chat.
 
