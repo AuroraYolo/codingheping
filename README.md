@@ -2,11 +2,11 @@
 **Codingheping/Codingheping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - ⚙️&nbsp;&nbsp; I use daily: `.php`, `.js`, `.html`, `.css`, `.swow`
-- 🌍&nbsp;&nbsp; I'm mostly active within the **DigitalOcean Community and DevDojo**
+- 🌍&nbsp;&nbsp; I'm mostly active within the **Swow Community and Swoole**
 - 📘&nbsp;&nbsp; I wrote the **[Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)** opensource eBook
 - 🌱&nbsp;&nbsp; Learning all about **Open Source**
-- 💬&nbsp;&nbsp; Ping me about **linux**, **bash**, **thinkphp**, **development**, **devops**
-- ⚡️&nbsp;&nbsp; Fun fact: I'm a big fan of cats 🐱‍💻
+- 💬&nbsp;&nbsp; Ping me about **hyperf**, **php**, **yii**, **swow**, **swoole**
+- ⚡️&nbsp;&nbsp; Fun fact: I have a cat and I want to keep a dog 🐶🐱‍💻
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -26,12 +26,12 @@
 ##### BIO
 
 - ⚙️&nbsp;&nbsp; I use daily: `.php`, `.js`, `.html`, `.css`, `.swow`
-- 🌍&nbsp;&nbsp; I'm mostly active within the **DigitalOcean Community and DevDojo**
+- 🌍&nbsp;&nbsp; I'm mostly active within the **Swow Community and Swoole**
 - 🌱&nbsp;&nbsp; Learning all about **Open Source**
-- 💬&nbsp;&nbsp; Ping me about **linux**, **bash**, **laravel**, **development**, **devops**
-- ⚡️&nbsp;&nbsp; Fun fact: I'm a big fan of cats 🐱‍💻
+- 💬&nbsp;&nbsp; Ping me about **hyperf**, **php**, **yii**, **swow**, **swoole**
+- ⚡️&nbsp;&nbsp; Fun fact: I have a cat and I want to keep a dog 🐶🐱‍
 
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) ![image title](https://rushter.com/counter.svg)
+![image title](https://rushter.com/counter.svg)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codingheping&show_icons=true&theme=radical&line_height=40)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingheping&&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
