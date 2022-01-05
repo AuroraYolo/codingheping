@@ -1,39 +1,38 @@
-<!--
-**Codingheping/Codingheping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-- ⚙️&nbsp;&nbsp; I use daily: `.php`, `.js`, `.html`, `.css`, `.swow`
-- 🌍&nbsp;&nbsp; I'm mostly active within the **Swow Community and Swoole**
-- 📘&nbsp;&nbsp; I wrote the **[Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)** opensource eBook
-- 🌱&nbsp;&nbsp; Learning all about **Open Source**
-- 💬&nbsp;&nbsp; Ping me about **hyperf**, **php**, **yii**, **swow**, **swoole**
-- ⚡️&nbsp;&nbsp; Fun fact: I have a cat and I want to keep a dog 🐶🐱‍💻
+- He/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=codingheping&show_icons=true&title_color=62BFAD&icon_color=79ff97&text_color=F7F8E8&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
--->
+### Back-end
 
-### Hi 2021 👋
+- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+- ![Swoole](https://img.shields.io/badge/swoole-%23FF2D20.svg?style=for-the-badge&logo=swoole&logoColor=white)
+- ![Swow](https://img.shields.io/badge/swow-%23FF2D20.svg?style=for-the-badge&logo=swow&logoColor=white)
 
-#### I'm a Backend DevOps Engineer working in China.
+### Front-end
 
-##### BIO
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-- ⚙️&nbsp;&nbsp; I use daily: `.php`, `.js`, `.html`, `.css`, `.swow`
-- 🌍&nbsp;&nbsp; I'm mostly active within the **Swow Community and Swoole**
-- 🌱&nbsp;&nbsp; Learning all about **Open Source**
-- 💬&nbsp;&nbsp; Ping me about **hyperf**, **php**, **yii**, **swow**, **swoole**
-- ⚡️&nbsp;&nbsp; Fun fact: I have a cat and I want to keep a dog 🐶🐱‍
+### Databases
 
-![image title](https://rushter.com/counter.svg)
+- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codingheping&show_icons=true&theme=radical&line_height=40)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingheping&&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### Others
 
+- ![Open Source Contributor](https://img.shields.io/badge/open%20source%20contributor-239120?style=for-the-badge&logo=hand&logoColor=white)
 
+### Linux System Adminstration
+
+* ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+<img alt="RHCE" src="https://i.imgur.com/OLuhWjJ.png" />
+
+[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=codingheping)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingheping&layout=compact)
+
+<p>
+  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=codingheping&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C"></a>
+</p>
